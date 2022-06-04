@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+  background: url('../img/stump.jpg') center;
+  background-size: 100;
+  overflow: hidden;
+  padding-top: 60px;
+  height: 470px;
+}
+
+header .Image {
+  height: 250px;
+  width: 250px;
+  padding-right: 10px;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+}
