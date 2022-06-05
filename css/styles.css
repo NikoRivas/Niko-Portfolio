@@ -35,3 +35,6 @@ body {
   background: #ffeee6;
 }
 
+class .card {
+  float: left;
+}
