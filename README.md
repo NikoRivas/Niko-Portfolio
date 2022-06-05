@@ -19,6 +19,7 @@ _This is a personal and professional portfolio for my first Epicodus code review
 - _visit this page to load: https://github.com/NikoRivas/Niko-Portfolio.git_
   _To use locally, clone this repository._
   _Then, launch html in your browser._
+  _Or load https://nikorivas.github.io/Niko-Portfolio/ into your browser_
 
 ## Known Bugs
 
